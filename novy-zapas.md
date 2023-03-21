@@ -13,7 +13,7 @@
 
 
 ### 4. Napište ID domácích
-Pokud ID nevíte, podívejte se na [krok 7](https://rblaha15.github.io/loko-navody/novy-zapas#7-pokud-id-klubu-nev%C3%ADte-jd%C4%9Bte-na-odkaz-n%C3%AD%C5%BEe-a-zde-napi%C5%A1te-n%C3%A1zev-klubu)
+Pokud ID nevíte, podívejte se na [krok 7](https://rblaha15.github.io/loko-navody/novy-zapas#7-pokud-id-klubu-nev%C3%ADte-jd%C4%9Bte-na-vyhled%C3%A1v%C3%A1n%C3%AD-klub%C5%AF--fa%C4%8Dr-a-zde-napi%C5%A1te-n%C3%A1zev-klubu)
 ![Step 4 screenshot](https://images.tango.us/workflows/2aaf7b32-7489-42c3-94c8-9f48da88093a/steps/e1e06c17-1daa-407a-adc8-ee6142f0d3eb/1a2abe6c-5090-448e-a4f7-b174fd2c8833.png?crop=focalpoint&fit=crop&fp-x=0.5851&fp-y=0.4887&fp-z=1.2877&w=1200)
 
 
