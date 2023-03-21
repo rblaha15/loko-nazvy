@@ -27,13 +27,13 @@ Pokud ID nevíte, podívejte se na [krok 7](https://rblaha15.github.io/loko-navo
 
 ### 7. Pokud ID klubu nevíte, jděte na [Vyhledávání klubů | FAČR](https://facr.fotbal.cz/club/hledej) a zde napište název klubu
 ![Step 7 screenshot](https://images.tango.us/workflows/2aaf7b32-7489-42c3-94c8-9f48da88093a/steps/75dcf2f7-76b7-4057-be22-8d6643f36d1d/f1b68dc2-c8f1-48c2-aba9-006426a95431.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200)
+![Step 8 screenshot](https://images.tango.us/workflows/2aaf7b32-7489-42c3-94c8-9f48da88093a/steps/2010f696-a933-4c2d-8016-5a1447366e08/15e33767-39d1-4b91-9523-3315ad6ac06b.png?crop=focalpoint&fit=crop&fp-x=0.5687&fp-y=0.4751&fp-z=1.1595&w=1200)
 
-**Proč uvádět ID zápasu?**
+**Proč uvádět ID klubu?**
 
-ID zápasu je nutné k tomu, aby web poznal klub a podle toho zobrazil správné logo klubu.
+ID je nutné k tomu, aby web poznal klub a podle toho zobrazil správné logo klubu.
 
 Pokud ID nevyplníte, na webu se zobrazí obrázek míče
-![Step 8 screenshot](https://images.tango.us/workflows/2aaf7b32-7489-42c3-94c8-9f48da88093a/steps/2010f696-a933-4c2d-8016-5a1447366e08/15e33767-39d1-4b91-9523-3315ad6ac06b.png?crop=focalpoint&fit=crop&fp-x=0.5687&fp-y=0.4751&fp-z=1.1595&w=1200)
 
 
 ### 8. Přejděte na kartu Ostatní údaje
