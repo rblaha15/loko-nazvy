@@ -4,8 +4,8 @@
 ![Step 1 screenshot](https://images.tango.us/workflows/1ab85f23-30df-4c03-83cc-a98d2c9bbeb8/steps/b4d0c5a6-8ddf-44b5-b23a-e55864df164f/830adc5d-edd4-4539-ab67-549e73ff1b2a.png?crop=focalpoint&fit=crop&fp-x=0.3571&fp-y=0.2258&fp-z=2.1831&w=1200)
 
 
-#### 1a. ALTERNATIVA: Klikněte v menu na Obsah webu a poté na Zápasy a výsledky
-    ![Step 2 screenshot](https://images.tango.us/workflows/1ab85f23-30df-4c03-83cc-a98d2c9bbeb8/steps/8cf5fd95-cded-4275-b600-ed69d892039d/fcba751a-a1dd-4400-a0ec-1c4ecccc8884.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200)
+* #### 1a. ALTERNATIVA: Klikněte v menu na Obsah webu a poté na Zápasy a výsledky
+  ![Step 2 screenshot](https://images.tango.us/workflows/1ab85f23-30df-4c03-83cc-a98d2c9bbeb8/steps/8cf5fd95-cded-4275-b600-ed69d892039d/fcba751a-a1dd-4400-a0ec-1c4ecccc8884.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200)
 
 
 ### 2. Klikněte na Nástroje vyhledávání 
@@ -22,7 +22,7 @@
 ## Upoutávka
 
 ### 1. Pro přidání upoutávky na zápas klikněte na Předzápasové informace
-Pokud chcete přidat komentář k již odehranému zápasu, přejděte na [sekci níže](https://rblaha15.github.io/loko-navody/novy-zapas#koment%E1%158)
+Pokud chcete přidat komentář k již odehranému zápasu, přejděte na [sekci níže](https://rblaha15.github.io/loko-navody/novinky#koment%C3%A1%C5%99)
 ![Step 6 screenshot](https://images.tango.us/workflows/1ab85f23-30df-4c03-83cc-a98d2c9bbeb8/steps/acd09d56-1e87-4ad6-bbad-0b1d42f3d7b5/ddad39eb-9ac3-4ea6-9961-e25e2143e120.png?crop=focalpoint&fit=crop&fp-x=0.3036&fp-y=0.2335&fp-z=2.1440&w=1200)
 
 
@@ -58,7 +58,7 @@ Vždy klikněte alespoň jedno z tichto tlačítek, pokud opouštíte detail zá
 ## Komentář
 
 ### 1. Pro přidání komentáře k zápasu klikněte na Pozápasové informace
-Pokud chcete přidat upoutávku na ještě neodehraný zápas, přejděte na [sekci výše](https://rblaha15.github.io/loko-navody/novy-zapas#upout%E1vka)
+Pokud chcete přidat upoutávku na ještě neodehraný zápas, přejděte na [sekci výše](https://rblaha15.github.io/loko-navody/novinky#upout%C3%A1vka)
 ![Step 12 screenshot](https://images.tango.us/workflows/1ab85f23-30df-4c03-83cc-a98d2c9bbeb8/steps/efabae3b-b5d5-4ae4-969e-237b42f98a55/eb10eee8-3e62-49f7-803a-7edc76822cbd.png?crop=focalpoint&fit=crop&fp-x=0.4571&fp-y=0.2335&fp-z=2.2014&w=1200)
 
 
