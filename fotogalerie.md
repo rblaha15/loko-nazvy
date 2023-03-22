@@ -1,3 +1,5 @@
+[<- Návody](https://rblaha15.github.io/loko-navody)
+
 # Přidání fotogalerie
 
 ## 1. Začněte kliknutím na Vybrat

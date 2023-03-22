@@ -1,3 +1,5 @@
+[<- Návody](https://rblaha15.github.io/loko-navody)
+
 # První přihlášení a změna hesla
 
 ## 1. Jděte na [https://loko-fotbal.cz/administrace-webu](https://loko-fotbal.cz/administrator/?administrace-webu)

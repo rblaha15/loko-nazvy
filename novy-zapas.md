@@ -1,3 +1,5 @@
+[<- Návody](https://rblaha15.github.io/loko-navody)
+
 # Vytvoření zápasu mimo systém FAČR
 
 ## 1. Na stránce [Zápasy a výsledky](https://loko-fotbal.cz/administrator/index.php?option=com_blcomcontent&view=matches) klikněte na Nový
@@ -66,7 +68,7 @@ Pokud se kolo neurčuje, nechte zde nulu
 
 ![image](https://user-images.githubusercontent.com/72446087/226931619-faa2d9b7-8d16-4baf-92b9-0abed6d2616e.png)
 
-## 14. Pokud máte, vyberte výsledek zápasu
+## 14. Pokud máte, zadejte výsledek zápasu
 **POZOR!** Výsledek zadáváme ve tvaru `0 : 0`, tedy `číslo mezera dvojtečka mezera číslo`
 
 ![image](https://user-images.githubusercontent.com/72446087/226931647-bd492805-7ce8-4216-ba9c-4075c62b638e.png)

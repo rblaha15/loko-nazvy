@@ -1,3 +1,5 @@
+[<- Návody](https://rblaha15.github.io/loko-navody)
+
 # Přidání upoutávky a komentáře k zápasu
 
 ## 1. Jděte na [TJ Lokomotiva - Administrace](https://loko-fotbal.cz/administrace-webu) a klikněte na Zápasy a výsledky
