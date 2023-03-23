@@ -1,4 +1,4 @@
-[<- Návody](./index.md)
+[<- Návody](../index.md)
 
 # Vytvoření zápasu mimo systém FAČR
 

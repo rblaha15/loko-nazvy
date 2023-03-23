@@ -1,4 +1,4 @@
-[<- Návody](./index.md)
+[<- Návody](../index.md)
 
 # První přihlášení a změna hesla
 
