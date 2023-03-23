@@ -1,0 +1,4 @@
+:not(img) {
+    background-color: black;
+    filter: hue-rotate(180deg) invert(90%);
+}
