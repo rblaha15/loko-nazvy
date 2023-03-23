@@ -1,4 +1,4 @@
-[<- Návody](https://rblaha15.github.io/loko-navody)
+[<- Návody](/)
 
 # Přidání fotogalerie
 
