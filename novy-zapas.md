@@ -2,7 +2,7 @@
 
 # Vytvoření zápasu mimo systém FAČR
 
-## 1. Na stránce [Zápasy a výsledky](https://loko-fotbal.cz/administrator/index.php?option=com_blcomcontent&view=matches) klikněte na Nový
+## 1. Na stránce <a href="https://loko-fotbal.cz/administrator/index.php?option=com_blcomcontent&view=matches" target="_blank">Zápasy a výsledky</a> klikněte na Nový
 
 ![image](https://user-images.githubusercontent.com/72446087/226929099-d6545210-3d19-4d2a-9428-8f3fd14a1967.png)
 
@@ -26,7 +26,7 @@ Pokud ID nevíte, podívejte se na [krok 7](https://rblaha15.github.io/loko-navo
 
 ![image](https://user-images.githubusercontent.com/72446087/226931351-81843714-28cb-4630-aa84-aeb4deb819b1.png)
 
-## 7. Pokud ID klubu nevíte, jděte na [Vyhledávání klubů | FAČR](https://facr.fotbal.cz/club/hledej) a zde napište název klubu
+## 7. Pokud ID klubu nevíte, jděte na <a href="https://facr.fotbal.cz/club/hledej" target="_blank">Vyhledávání klubů | FAČR</a> a zde napište název klubu
 
 ![image](https://user-images.githubusercontent.com/72446087/226931370-ba6294c8-5dd1-44e6-917c-1ee63e6ccdb0.png)
 ![image](https://user-images.githubusercontent.com/72446087/226931397-fc1c23de-608d-4e7d-9957-a2e52f2f7fbd.png)
