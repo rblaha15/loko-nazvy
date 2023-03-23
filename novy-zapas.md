@@ -1,4 +1,4 @@
-[<- Návody](https://rblaha15.github.io/loko-navody)
+[<- Návody](./index.md)
 
 # Vytvoření zápasu mimo systém FAČR
 
