@@ -1,4 +1,4 @@
-[<- Návody](/)
+[<- Návody](/index.md)
 
 # Přidání fotogalerie
 
