@@ -13,7 +13,7 @@
 
     <link rel="shortcut icon" href="favicon.png">
 
-    {% if page.title %}
+    {% if page.title !== "" %}
       <title>{{ page.title }} - {{ site.title }}</title>
     {% else %}
       <title>{{ site.title }}</title>
@@ -21,14 +21,14 @@
 
   </head>
   <body>
-    <link href="primer.css" rel="stylesheet" />
+    <link href="https://unpkg.com/@primer/css@^20.2.4/dist/primer.css" rel="stylesheet" />
     <div class="container-lg px-3 my-5 markdown-body">
 
       {% if page.title %}
         <a href="/"><- Návody</a>
       {% endif %}
 
-      <h1>{{ site.title | default: page.title }}</h1>
+      <h1>{{ page.title | default: site.title }}</h1>
 
       {{ content }}
 
