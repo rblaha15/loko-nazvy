@@ -1,8 +1,7 @@
 [<- Návody](../index.md)
 
 # Přidání upoutávky a komentáře k zápasu
-
-## 1. Jděte na <a href="https://loko-fotbal.cz/administrace-webu/" target="_blank">TJ Lokomotiva - Administrace</a> a klikněte na Zápasy a výsledky
+## 1. Jděte na <a href="https://loko-fotbal.cz/administrator/?administrace-webu" target="_blank">TJ Lokomotiva - Administrace</a> a klikněte na Zápasy a výsledky
 
 ![Step 1 screenshot](https://images.tango.us/workflows/1ab85f23-30df-4c03-83cc-a98d2c9bbeb8/steps/b4d0c5a6-8ddf-44b5-b23a-e55864df164f/830adc5d-edd4-4539-ab67-549e73ff1b2a.png?crop=focalpoint&fit=crop&fp-x=0.3571&fp-y=0.2258&fp-z=2.1831&w=1200)
 
