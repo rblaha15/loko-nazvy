@@ -11,24 +11,12 @@
 
     {% include head-custom.html %}
 
-    <link rel="shortcut icon" href="favicon.png">
-
-    {% if page.title != "" %}
-      <title>{{ page.title }} - {{ site.title }}</title>
-    {% else %}
-      <title>{{ site.title }}</title>
-    {% endif %}
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
 
   </head>
   <body>
     <link href="https://unpkg.com/@primer/css@^20.2.4/dist/primer.css" rel="stylesheet" />
     <div class="container-lg px-3 my-5 markdown-body">
-
-      {% if page.title %}
-        <a href="/loko-navody"><- Návody</a>
-      {% endif %}
-
-      <h1>{{ page.title | default: site.title }}</h1>
 
       {{ content }}
 

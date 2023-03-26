@@ -2,6 +2,10 @@
 title: Přidání fotogalerie
 ---
 
+[<- Návody](../index.md)
+
+# Přidání fotogalerie
+
 ## 1. Začněte kliknutím na Vybrat
 
 ![Step 1 screenshot](https://images.tango.us/workflows/79d495f1-c05a-4f4a-9f04-f49662f74c35/steps/cb7be480-f236-4ce1-bc72-ceeb0aaf234d/2f7bb16f-c22d-41b5-a322-e49100f7cb07.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200)
