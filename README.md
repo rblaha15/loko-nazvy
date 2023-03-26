@@ -1,6 +1,3 @@
-# <a href="https://loko-fotbal.cz/" target="_blank">loko-fotbal.cz</a> - Návody
+# loko-fotbal.cz - Návody
 
-### [První přihlášení a změna hesla](./prvni-prihlaseni/index.md)
-### [Přidání upoutávky a komentáře k zápasu](./novinky/index.md)
-### [Vytvoření zápasu mimo systém FAČR](./novy-zapas/index.md)
-### [Přidání fotogalerie](./fotogalerie/index.md)
+Dostupné na [https://rblaha15.github.io/loko-navody/](https://rblaha15.github.io/loko-navody/)

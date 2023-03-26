@@ -2,7 +2,7 @@
 title: Vytvoření zápasu mimo systém FAČR
 ---
 
-[<- Návody](../index.md)
+[<- Návody](../)
 
 # Vytvoření zápasu mimo systém FAČR
 

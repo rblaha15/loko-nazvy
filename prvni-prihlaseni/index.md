@@ -2,7 +2,7 @@
 title: První přihlášení a změna hesla
 ---
 
-[<- Návody](../index.md)
+[<- Návody](../)
 
 # První přihlášení a změna hesla
 

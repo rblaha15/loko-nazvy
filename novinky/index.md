@@ -2,7 +2,7 @@
 title: Přidání upoutávky a komentáře k zápasu
 ---
 
-[<- Návody](../index.md)
+[<- Návody](../)
 
 # Přidání upoutávky a komentáře k zápasu
 
