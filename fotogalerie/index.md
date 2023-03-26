@@ -1,10 +1,6 @@
-<head>
-    <title>Přidání fotogalerie</title>
-</head>
-
-[<- Návody](../index.md)
-
-# Přidání fotogalerie
+---
+title: Přidání fotogalerie
+---
 
 ## 1. Začněte kliknutím na Vybrat
 
