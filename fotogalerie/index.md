@@ -2,7 +2,7 @@
 title: Přidání fotogalerie
 ---
 
-[<- Návody](../index.md)
+[<- Návody](../)
 
 # Přidání fotogalerie
 
