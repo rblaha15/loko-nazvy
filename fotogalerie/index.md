@@ -1,4 +1,6 @@
-<title>Přidání fotogalerie</title>
+<head>
+    <title>Přidání fotogalerie</title>
+</head>
 
 [<- Návody](../index.md)
 
