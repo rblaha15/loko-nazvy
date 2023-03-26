@@ -1,3 +1,5 @@
+<title>Přidání fotogalerie</title>
+
 [<- Návody](../index.md)
 
 # Přidání fotogalerie
