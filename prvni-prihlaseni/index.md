@@ -2,7 +2,7 @@
 
 # První přihlášení a změna hesla
 
-## 1. Jděte na <a href="https://loko-fotbal.cz/administrace-webu" target="_blank">https://loko-fotbal.cz/administrace-webu</a>
+## 1. Jděte na <a href="https://loko-fotbal.cz/administrator/?administrace-webu" target="_blank">https://loko-fotbal.cz/administrace-webu</a>
 
 ## 2. Vyplňte uživatelské jméno - Váš email
 
