@@ -6,6 +6,8 @@ title: Přidání fotogalerie
 
 # Přidání fotogalerie
 
+Níže popsaný způsob se může zdát jako zbytečně složitý, ale je bohužel nutný. Důvodem je přidávání k zápasu/kategorii více než jednu fotografii – můžete si všimnout, že na vložení fotografie je na stránce pouze jedno pole – pro vložení více fotografií je musíte všechny nahrát do jedné složky a pak vybrat jednu. Takže, pokud chcete nahrát pouze jednu fotku, musíte také vytvořit speciální složku! Pokud tak neučiníte a necháte fotku v nejvyšší (kořenové) složce, nahrají se do fotogalerie i všechny ostatní (stovky) fotky, co v této složce jsou.
+
 ## 1. Začněte kliknutím na Vybrat
 
 ![image](https://user-images.githubusercontent.com/72446087/227794409-8983dd87-803b-49f7-94f1-7df4a937451e.png)
